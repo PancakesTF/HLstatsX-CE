@@ -1,4 +1,4 @@
-#HLstatsX Community Edition
+#HLstatsX Community Edition 1.6.19 (+)
 HLstatsX Community Edition is an open-source project licensed
 under GNU General Public License v2 and is a real-time stats
 and ranking for Source engine based games. HLstatsX Community
